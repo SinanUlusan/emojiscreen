@@ -1,0 +1,199 @@
+[
+    {
+        "title":"Space Jam",
+        "emojiImgs":"🏀🛸🚀",
+        "type":"movie",
+        "year":1994
+     },{
+        "title":"Sweeney Todd: The Demon Barber of Fleet Street",
+        "emojiImgs":"💈🔪☠️🍰",
+        "type":"musical",
+        "year":1979
+     },{
+        "title":"Tropic Thunder",
+        "emojiImgs":"😼😽🙀😿😾",
+        "type":"movie",
+        "year":2008
+     },{
+        "title":"Up",
+        "emojiImgs":"🎈🏠🐶👴🏻",
+        "type":"movie",
+        "year":1994
+     },{
+        "title":"Black Panther",
+        "emojiImgs":"😺🌍🏴💪🏿🦸🏿",
+        "type":"movie",
+        "year":2018
+     },{
+        "title":"The Book of Mormon",
+        "emojiImgs":"👋🔔👨📖✝️",
+        "type":"musical",
+        "year":2011
+     },{
+        "title":"Bungou Stray Dogs: Dead Apple",
+        "emojiImgs":"🍎🗡🐶🇯🇵",
+        "type":"movie",
+        "year": 2018
+     },{
+        "title":"Cast Away",
+        "emojiImgs":"🏐🥥🏝️",
+        "type":"movie",
+        "year":1994
+     },{
+        "title":"Chicago",
+        "emojiImgs":"🎷👯🔫👠🕺",
+        "type":"movie",
+        "year":2002
+     },{
+        "title":"The Color Purple",
+        "emojiImgs":"💜🏃🏾‍♀️🧘🏾‍♀️",
+        "type":"movie",
+        "year":1986
+     },{
+        "title":"Devil Wears Prada",
+        "emojiImgs":"😈💄👠🧣👓",
+        "type":"movie",
+        "year":2006
+     },{
+        "title":"Fight Club",
+        "emojiImgs":"🥊🧼🤐",
+        "type":"movie",
+        "year":1999
+     },{
+        "title":"Frozen",
+        "emojiImgs":"👭☃️❄️",
+        "type":"movie",
+        "year":2013
+     },{
+        "title":"Game of Thrones",
+        "emojiImgs":"🐉👑🗡️📚🧟",
+        "type":"tv",
+        "year":2011
+     },{
+        "title":"300 ",
+        "emojiImgs":" 💪🤕👊🏻⚔️ 🛡",
+        "type":"movie",
+        "year":2007
+     },{
+        "title":"A Star is Born",
+        "emojiImgs":"🎤👩👨🎸⭐",
+        "type":"movie",
+        "year":1994
+     },{
+        "title":"Aladdin",
+        "emojiImgs":"🧞‍♂️💞👸👳🏰",
+        "type":"movie",
+        "year":2019
+     },{
+        "title":"Hamilton: The Musical",
+        "emojiImgs":"💵🖋️⚖️🎵📜",
+        "type":"musical",
+        "year":2015
+     },{
+        "title":"Harry Potter and the Chamber of Secrets",
+        "emojiImgs":"🐍🧙‍♂️📓👩‍🦰⚡",
+        "type":"movie",
+        "year":2002
+     },{
+        "title":"Home Alone",
+        "emojiImgs":"🏠🙈",
+        "type":"movie",
+        "year":1990
+     },{
+        "title":"It",
+        "emojiImgs":"🎈🤡☔🚲",
+        "type":"movie",
+        "year":2017
+     },{
+        "title":"It 2: It's coming!",
+        "emojiImgs":"🤡🎈🤡🎈🤡",
+        "type":"movie",
+        "year":2020
+     },{
+        "title":"Jurassic Park",
+        "emojiImgs":"🔬🦖🏝",
+        "type":"movie",
+        "year":1993
+      },{
+        "title":"Kiki's Delivery Service",
+        "emojiImgs":"👧🐱🧹📫",
+        "type":"movie",
+        "year":1989
+     },{
+        "title":"Kung Fu Panda",
+        "emojiImgs":"🐼🎍🇨🇳🥟🍚",
+        "type":"movie",
+        "year":2008
+     },{
+        "title":"Legally Blonde",
+        "emojiImgs":"👩‍⚖️👠💘🏫🐶",
+        "type":"movie",
+        "year":2001
+     },{
+        "title":"Les Misérables",
+        "emojiImgs":"🇫🇷🥖👮🏻",
+        "type":"musical",
+        "year":1987
+     },{
+         "title":"The Lion King",
+         "emojiImgs":"🦁👑🌍",
+         "type":"movie",
+         "year":1994
+     },{
+         "title":"Miss Saigon",
+         "emojiImgs":"🇻🇳💑🚁👶",
+         "type":"musical",
+         "year":1991
+     },{
+         "title":"On the Town",
+         "emojiImgs":"⚓🚢",
+         "type":"comedy",
+         "year":2014
+     },{
+        "title":"Pet Sematary",
+        "emojiImgs":"🐶🐱☠️⚰️",
+        "type":"movie",
+        "year":2019
+     },{
+        "title":"Pirates of the Caribbean",
+        "emojiImgs":"🍻🏴‍☠️🚢",
+        "type":"movie",
+        "year":1994
+     },{
+        "title":"Princess Bride",
+        "emojiImgs":"🏴‍☠️👸🔥🤺",
+        "type":"movie",
+        "year":1987
+     },{
+        "title":"Rent",
+        "emojiImgs":"🍃🍂🍁♥️",
+        "type":"movie",
+        "year":2005
+     },{
+         "title":"RocketMan",
+         "emojiImgs":"🐱 📫",
+         "type":"movie",
+         "year":2019
+      },{
+         "title":"School of Rock",
+         "emojiImgs":"🏫🎸🥁🎹",
+         "type":"movie",
+         "year":2003
+      },{
+        "title":" Seven ",
+        "emojiImgs":"  🕵🔪👮‍♂️😈",
+        "type":"movie",
+        "year":2007
+     },{
+        "title":"Sixth Sense",
+        "emojiImgs":"👻👦👀",
+        "type":"movie",
+        "year":1999
+     },{
+        "title":"Wicked",
+        "emojiImgs":"💚🧹🧙‍♂️",
+        "type":"musical",
+        "year":2003
+     }
+      
+ ]
